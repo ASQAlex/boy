@@ -302,7 +302,7 @@ body {
     }
 
     .cloud__box {
-        background-image: url(/images/cloud-media.svg);
+        background-image: url(../images/cloud-media.svg);
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
