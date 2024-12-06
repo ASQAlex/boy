@@ -670,6 +670,22 @@ body {
     }
 }
 
+@media(max-width:366px){
+    .social__box {
+        gap: 32px;
+    }
+
+    .social__link {
+        width: 60px;
+    }
+
+    .cloud__box {
+        width: 340px;
+        height: 128px;
+    }
+}
+
+
 @media(max-width:344px){
     .cloud__box {
         width: 350px;
@@ -722,6 +738,8 @@ body {
     .cloud__box {
         width: 221px;
         height: 97px;
+        margin-top: 18px;
+        margin-bottom: 14px;
     }
 
     .footer {
